@@ -34,7 +34,7 @@ public class LoopPractice {
 		}
 	}
 	
-	
+	//변경사항만듬
 	
 	
 		
